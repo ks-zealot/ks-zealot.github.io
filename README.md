@@ -8,10 +8,13 @@ This is a project to reimplement classic Warcraft gameplay using Unreal Engine 5
 
 ## What is the goal of the project?
 
- To achieve this, I decided to make a remake of Warcraft.
-Firstly, a remake of Warcraft on modern technologies is urgently needed by the gaming community, this can be seen from its reaction to Warcraft Reforged.
+ To achieve this, I decided to rebuild  Warcraft engine inside  Unreal.
 
-Secondly, when buying Warcraft, people bought WorldEditor, an extremely powerful and flexible tool, allowing you to use hundreds of high-quality models that come with Warcraft, make your own maps, campaigns, and even invent your own genres.
+ Firstly, opensource remake of classic game engines, such as OpenMW or Doom port, always make a great boost for modding community.
+
+Secondly, a remake of Warcraft on modern technologies is urgently needed by the gaming community, this can be seen from its reaction to Warcraft Reforged.
+
+Thirdly, when buying Warcraft, people bought WorldEditor, an extremely powerful and flexible tool, allowing you to use hundreds of high-quality models that come with Warcraft, make your own maps, campaigns, and even invent your own genres.
 
 For example, the genres of Tower Defense and even the famous Dota were invented in WorldEditor. It was WorldEditor that opened the way to gamedev for many hundreds of people.
 
@@ -25,11 +28,11 @@ The first stage, launches a single Warcraft map. To do this, I need to make an R
 
 ### Campaign
 
-Launch the entire Warcraft campaign. To do this, in addition to the previous functionality, add the ability to play videos on the engine and execute Jass scripts.
+Launch the entire Warcraft campaign. To do this, in addition to the previous functionality, add the ability to play cinematics and execute Jass scripts.
 
 ### WorldEditor
 
-The final goal of this project is to recreate WorldEditor as a plugin for UnrealEngine that will be available on the marketplace.
+The final goal of this project is to recreate WorldEditor as a plugin for UnrealEngine that will be available on the Unreal marketplace.
 
 
 ## What work now?
