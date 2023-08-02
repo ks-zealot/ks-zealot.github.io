@@ -1,6 +1,6 @@
 # OpenWarcraft
 
-This is Github Pages that introduced my project : OpenWarcraft
+This is Github Page to introduce my project : OpenWarcraft
 
 [![Video](http://img.youtube.com/vi/qrjjX32KYm8/0.jpg)](https://www.youtube.com/watch?v=qrjjX32KYm8 "Openwarcraft Promo")
 ## What is it?
@@ -8,35 +8,28 @@ This is a project to reimplement classic Warcraft gameplay using Unreal Engine 5
 
 ## What is the goal of the project?
 
-The main goal is to revive the good old RTS genre.
+ To achieve this, I decided to make a remake of Warcraft.
+Firstly, a remake of Warcraft on modern technologies is urgently needed by the gaming community, this can be seen from its reaction to Warcraft Reforged.
 
-To achieve that, I highlight three subgoals of the project.
+Secondly, when buying Warcraft, people bought WorldEditor, an extremely powerful and flexible tool, allowing you to use hundreds of high-quality models that come with Warcraft, make your own maps, campaigns, and even invent your own genres.
 
-### Run skirmish map
+For example, the genres of Tower Defense and even the famous Dota were invented in WorldEditor. It was WorldEditor that opened the way to gamedev for many hundreds of people.
 
-First and most easy subgoal is to run into Unreal Engine melee skirmish maps. To do this, I need reinvent Warcraft gameplay algorithms, rebuild UI and import Warcraft assets into Unreal
+In this way, I can offer both a classic RTS experience and the ability to tell my own stories using the Warcraft assets along with Unreal technologies.
 
-### Run campaign
+## Key stages of the project
 
-Second goal is to run entire Warcraft campaigns in Unreal. To do this, I need to add even more abilities to my project, for example, run JASS script or cinematic created inside Warcraft engine.
+### Single map
 
-### Recreate WorldEditor
+The first stage, launches a single Warcraft map. To do this, I need to make an RTS UI, simple AI and import Warcraft resources into Unreal.
 
-And third, and most ambitious subgoal is create Unreal Plugin thats rebuild and expand function of WorldEditor.
+### Campaign
 
-### About WorldEditor
+Launch the entire Warcraft campaign. To do this, in addition to the previous functionality, add the ability to play videos on the engine and execute Jass scripts.
 
-WorldEditor was a tool to create custom Warcraft III maps, and for this time it was extremely powerful and handy. WorldEditor united the entire Warcraft modding community that still exists and created new content every day.
+### WorldEditor
 
-WorldEditor's main merit was that it opened doors to gameplay for many peoples, and helped to invent entire new game genres. For example, Tower Defence genre and famous game Dota was invented in WorldEditor
-
-### Why is this important?
-
-First of all, the remake of Warcraft is highly anticipated by the gamer community,  judging by their reaction to Warcraft Reforged.
-
-Then, WorldEditor brings the power of Unreal merged with Warcraft III asset base to any gamer. Classic WorldEditor offers hundreds of high-quality animated 3d models, sounds, effects, and allows everyone to tell their story. With WorldEditor builded upon Unreal Engine, everyone receives even more. The ability to build simple RTS and RPG games fast and easy.
-
-Even more important that Warcraft has the ability to load models at runtime from map files. So, it opened endless possibilities to developers, allowing them to load any model or effect without baking it in remake, on runtime.
+The final goal of this project is to recreate WorldEditor as a plugin for UnrealEngine that will be available on the marketplace.
 
 
 ## What work now?
